@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarthak37
 - 👀 I’m interested in ...React js, node js, react native mongo db 
-- 🌱 I have worked a lot towards  full Stack Development and App Development in Javascript realted Frameworks
+- 🌱 I have worked a lot towards  full Stack Development and App Development in Javascript related Frameworks
 - 📫 How to reach me ...
 -     portfolio -- https://sarthak-portfolica.netlify.app/
 -     Linkedin - https://www.linkedin.com/in/sarthak-778470137/
